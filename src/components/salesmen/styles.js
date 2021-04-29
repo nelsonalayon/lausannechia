@@ -12,3 +12,8 @@ export const PhotoSalesMen = styled.img`
 position:absolute;
 left: -8px;
 `
+
+export const GeneralContainer = styled.div`
+display:flex;
+align-items:center;
+`

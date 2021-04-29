@@ -1,9 +1,9 @@
-import { SalesMenPhotoContainer, PhotoSalesMen } from "./styles";
+import { SalesMenPhotoContainer, PhotoSalesMen, GeneralContainer } from "./styles";
 
 const Salesmen = (props) => {
   return props.data.salesman.map((subject) => {
     return (
-      <div>
+      <GeneralContainer key = {subject.id}>
         <SalesMenPhotoContainer>
           <PhotoSalesMen src={subject.image} height = "100%"></PhotoSalesMen>
         </SalesMenPhotoContainer>
@@ -12,7 +12,7 @@ const Salesmen = (props) => {
           {" "}
           {subject.phoneNumber} <span>({subject.name})</span>
         </p>
-      </div>
+      </GeneralContainer>
     );
   });
 };

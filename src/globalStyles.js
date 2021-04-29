@@ -2,16 +2,19 @@ import { createGlobalStyle } from 'styled-components';
  
 const GlobalStyle = createGlobalStyle`
     :root {
-         --darkGray: 3C3C39;
+         --darkGray: #3C3C39;
+         --yellowStrong: #D68920;
+         --yellowLight: #F3DA7E;
+         --lightGray: rgba(60, 60, 57, 0.1);
     }
    
     
   body {
     margin: 0;
     padding: 0;
-    background: #F2F2F2;
-    // background-color: #var(--darkGray);
+    background: var(--lightGray);    
     font-family: Open-Sans, Helvetica, Sans-Serif;
+    
   }
 
   h1 {
@@ -62,6 +65,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 15px;
 line-height: 22px;
+color: var(--darkGray)
   }
 `;
  

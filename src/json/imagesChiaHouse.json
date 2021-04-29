@@ -1,0 +1,104 @@
+{
+    "chiaHouse": [
+        {   
+            "id": 0,
+            "name": "Patio",            
+            "image": "https://live.staticflickr.com/65535/51144911238_e2e8a750eb_k.jpg"
+        },
+        {   
+            "id": 1,
+            "name": "Mesita",            
+            "image": "https://live.staticflickr.com/65535/51144911268_0b79312c70_k.jpg"
+        },
+        {   
+            "id": 2,
+            "name": "Jaccuzi",            
+            "image": "https://live.staticflickr.com/65535/51144010602_b44dd00bbc_k.jpg"
+        },
+        {   
+            "id": 3,
+            "name": "Escaleras",            
+            "image": "https://live.staticflickr.com/65535/51145468444_da7ceedb78_k.jpg"
+        },
+        {   
+            "id": 4,
+            "name": "Escaleras2",            
+            "image": "https://live.staticflickr.com/65535/51144687946_e6cf703e72_k.jpg"
+        },
+        {   
+            "id": 5,
+            "name": "Entrada",            
+            "image": "https://live.staticflickr.com/65535/51145791530_b9ac326061_k.jpg"
+        },
+        {   
+            "id": 6,
+            "name": "Dormitorio",            
+            "image": "https://live.staticflickr.com/65535/51144010672_0e8a9656b6_k.jpg"
+        },
+        {   
+            "id": 7,
+            "name": "Dormitorio 3",            
+            "image": "https://live.staticflickr.com/65535/51144010687_bc13e4a9b2_k.jpg"
+        },
+        {   
+            "id": 8,
+            "name": "Dormitorio 2",            
+            "image": "https://live.staticflickr.com/65535/51145791445_fd4307ec74_k.jpg"
+        },
+        {   
+            "id": 9,
+            "name": "Cuarto",            
+            "image": "https://live.staticflickr.com/65535/51145468569_cec39914af_k.jpg"
+        },
+        {   
+            "id": 10,
+            "name": "Cuarto 2",            
+            "image": "https://live.staticflickr.com/65535/51144911483_8aa683ba19_k.jpg"
+        },
+        {   
+            "id": 11,
+            "name": "Comedor",            
+            "image": "https://live.staticflickr.com/65535/51144911523_41c7a38214_k.jpg"
+        },
+        {   
+            "id": 12,
+            "name": "Comedor 2",            
+            "image": "https://live.staticflickr.com/65535/51144010767_4d4fb65d0f_k.jpg"
+        },
+        {   
+            "id": 13,
+            "name": "Cocina",            
+            "image": "https://live.staticflickr.com/65535/51145791685_2e802a04e4_k.jpg"
+        },
+        {   
+            "id": 14,
+            "name": "Closet",            
+            "image": "https://live.staticflickr.com/65535/51145468739_810eb7a2a6_k.jpg"
+        },
+        {   
+            "id": 15,
+            "name": "Baño",            
+            "image": "https://live.staticflickr.com/65535/51145791465_485dc513c4_k.jpg"
+        },
+        {   
+            "id": 16,
+            "name": "Sala",            
+            "image": "https://live.staticflickr.com/65535/51145791750_679d037919_k.jpg"
+        },
+        {   
+            "id": 17,
+            "name": "Sala 2",            
+            "image": "https://live.staticflickr.com/65535/51145468794_ef155022c8_k.jpg"
+        },
+        {   
+            "id": 18,
+            "name": "Recibidor",            
+            "image": "https://live.staticflickr.com/65535/51144010867_c54e86e62f_k.jpg"
+        },
+        {   
+            "id": 19,
+            "name": "Patio 2",            
+            "image": "https://live.staticflickr.com/65535/51144010907_9aaf979301_k.jpg"
+        }
+    ]
+} 
