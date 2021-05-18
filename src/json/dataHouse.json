@@ -1,0 +1,13 @@
+{
+    "house": [
+        {   
+            "id": "0",
+            "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.5316672473887!2d-74.0593913852955!3d4.850159241694074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f879465ff4b37%3A0x9e45283e618620e6!2sParmalat%2C%20Ch%C3%ADa%2C%20Cundinamarca!5e0!3m2!1ses!2sco!4v1621349191390!5m2!1ses!2sco",
+            "address": "Calle 32 A # 15 - 80, Chia Cundinamarca",
+            "area": "250 m2",
+            "bathrooms": "4 baños",
+            "parking": "2 parqueaderos",
+            "bedrooms": "4 dormitorios"
+        }
+    ]
+} 

@@ -39,6 +39,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: normal;
     font-size: 30px;
     line-height: 44px;
+    color: var(--yellowStrong);
   }
 
   h4 {
@@ -55,17 +56,20 @@ const GlobalStyle = createGlobalStyle`
     font-weight: normal;
     font-size: 20px;
     line-height: 30px;
+    color: var(--yellowLight);
+    padding: 20px;
+    font-weight:300;
   }
 
 
 
   p {
     font-family: Poppins;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 22px;
-color: var(--darkGray)
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: var(--darkGray)
   }
 `;
  
