@@ -6,6 +6,7 @@ max-width: 25%;
 display:flex;
 flex-direction: column;
 margin: 33px;
+flex-wrap:wrap;
 
 `
 

@@ -8,6 +8,8 @@ import Advantages from './components/advantage/Advantage'
 import Location from './components/location/location'
 import Ideal from "./components/ideal/ideal"
 import HowIsTheHouse from "./components/howIsTheHouse/HowIsTheHouse"
+import DoBusiness from './components/doBusiness/DoBusiness'
+import TheFooter from './components/footer/footer'
 
 
 
@@ -26,6 +28,8 @@ function App() {
         <Location/>
         <Ideal/>
         <HowIsTheHouse/>
+        <DoBusiness/>
+        <TheFooter/>
         
       </header>
     </div>

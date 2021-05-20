@@ -6,7 +6,8 @@ max-width: calc(100vw - 100px);
 background: #FFFFFF;
 box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 margin: 50px auto;
-
+flex-wrap:wrap;
+justify-content:center;
 `
 
 export const All = styled.div`
