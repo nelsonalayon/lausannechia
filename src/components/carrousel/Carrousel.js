@@ -6,7 +6,7 @@ import CarrouselItems from "../elCarrousel/carrouselItems";
 const Carrousel = () => {
   document.addEventListener("DOMContentLoaded", function () {
     var elems = document.querySelectorAll(".carousel");
-    var instances = M.Carousel.init(elems, {
+    M.Carousel.init(elems, {
       fullWidth: true,
       indicators: true,
       padding: 2000     

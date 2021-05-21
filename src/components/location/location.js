@@ -15,6 +15,7 @@ const Location = () => {
       <LocationContainer>
         <div>
           <iframe
+            title= "mapa"
             src={dataHouse.house[0].location}
             width="600"
             height="330"

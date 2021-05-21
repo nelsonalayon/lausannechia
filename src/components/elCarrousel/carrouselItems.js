@@ -5,10 +5,11 @@ const CarrouselItems = (props) => {
     if (photo.id < 5) {
       return (
         <a className="carousel-item" href="#one!" id={photo.id}>
-          <img src={photo.image} />
+          <img src={photo.image} alt={photo.id}/>
         </a>
       );
     }
+    return <p>hola</p>;
   });
 };
 
